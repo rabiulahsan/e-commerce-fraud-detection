@@ -10,7 +10,7 @@ class PredictPipeline:
 
     def predict_fraud(self, features):
         try:
-            model_path = 'models/GradientBoostingClassifier_model.pkl'
+            model_path = 'models/Gradient_Boosting_model.pkl'
             preprocessor_path = 'models/preprocessor.pkl'
 
             model = load_object(file_path=model_path)
