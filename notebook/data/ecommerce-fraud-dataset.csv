@@ -1,0 +1,801 @@
+Customer_Age,Customer_Location,Customer_Tier,Purchase_History,Transaction_Amount,Payment_Method,Transaction_Status,Product_Category,High_Risk_Countries,Mismatch_Between_IP_And_Location,Multiple_Transactions,Fraud
+25,India,new,17,260.81,PayPal,successful,home,0,0,0,0
+20,UK,returning,20,190.22,debit card,successful,clothing,0,0,0,0
+34,India,new,35,667.89,bank transfer,successful,sports,0,0,3,1
+60,USA,returning,18,517.69,PayPal,successful,home,0,1,3,1
+64,Germany,premium,40,233.1,PayPal,successful,clothing,0,0,2,0
+34,India,new,19,675.23,bank transfer,pending,other,0,0,0,0
+26,Other,new,41,31.46,bank transfer,pending,home,0,,2,0
+44,Germany,returning,20,269.52,debit card,successful,clothing,0,0,2,0
+21,Germany,new,6,798.25,bank transfer,failed,clothing,0,0,0,0
+46,Canada,premium,1,799.49,credit card,successful,clothing,0,0,2,1
+46,India,new,5,608.88,credit card,successful,other,0,0,0,0
+46,USA,new,23,941.04,credit card,successful,other,0,1,2,1
+41,Germany,new,49,50.74,credit card,successful,home,0,0,0,0
+48,UK,new,49,136.36,bank transfer,successful,other,0,0,0,0
+64,India,returning,20,255.32,PayPal,successful,home,0,0,0,0
+53,USA,new,27,322.8,PayPal,successful,other,0,0,2,0
+68,India,new,42,355.99,credit card,pending,electronics,0,0,2,0
+29,Canada,returning,28,175.3,debit card,successful,home,0,0,1,0
+68,UK,returning,17,921.53,credit card,successful,home,0,0,0,0
+46,India,premium,47,951.66,debit card,successful,clothing,0,0,0,0
+61,Canada,premium,42,950.4,debit card,pending,other,0,0,1,0
+27,Canada,premium,43,17.72,credit card,successful,home,0,0,2,1
+57,Germany,new,4,422.44,debit card,successful,sports,0,0,1,1
+28,India,returning,44,861.51,debit card,successful,home,0,0,2,0
+35,Canada,premium,49,750.13,PayPal,pending,clothing,0,1,1,1
+22,UK,new,50,515.33,credit card,failed,clothing,0,,1,0
+46,India,new,10,602.4,bank transfer,successful,electronics,0,0,2,0
+39,USA,returning,30,219.75,credit card,successful,electronics,0,0,5,1
+65,Germany,new,10,515.58,bank transfer,successful,home,0,1,1,0
+58,Other,new,32,567.38,bank transfer,successful,home,0,0,1,0
+62,India,premium,30,110.64,credit card,successful,home,0,0,1,0
+60,India,returning,46,814.04,PayPal,successful,home,0,0,2,0
+66,India,premium,31,790.94,bank transfer,successful,sports,0,0,0,0
+27,Canada,premium,43,130.18,debit card,successful,other,0,0,1,0
+39,USA,returning,30,655.57,credit card,successful,sports,1,0,0,0
+64,India,returning,20,943.23,PayPal,successful,sports,0,0,2,0
+61,Canada,premium,36,342.31,PayPal,successful,other,0,0,0,0
+46,Germany,returning,14,556.22,debit card,successful,sports,0,0,2,
+30,Other,new,7,591.65,bank transfer,failed,electronics,0,0,1,0
+37,Canada,new,3,925.13,bank transfer,successful,sports,0,0,1,0
+31,Canada,new,26,985.97,bank transfer,successful,electronics,1,0,2,0
+58,Canada,new,46,878.99,PayPal,successful,other,0,0,1,0
+65,Other,returning,50,929.81,credit card,successful,electronics,0,0,4,1
+65,UK,premium,22,428.02,credit card,successful,other,0,0,1,0
+65,India,new,10,891.15,PayPal,failed,home,0,0,0,0
+37,Canada,new,9,856.09,debit card,pending,electronics,0,0,2,0
+51,USA,new,21,520.95,bank transfer,successful,sports,0,0,0,0
+66,Canada,returning,8,602.61,PayPal,successful,other,0,0,2,0
+61,USA,premium,2,800.93,bank transfer,successful,clothing,0,0,0,0
+61,Other,returning,44,695.22,debit card,successful,electronics,0,0,0,0
+27,Canada,returning,48,833.44,debit card,successful,electronics,0,0,1,0
+64,Canada,premium,1,230.42,credit card,successful,sports,0,0,1,0
+38,India,new,11,332.94,credit card,successful,other,0,0,3,1
+44,UK,new,23,725.91,bank transfer,failed,other,0,0,1,0
+69,Canada,new,31,648.18,debit card,successful,electronics,0,0,1,0
+20,UK,returning,20,222.58,debit card,successful,home,0,0,0,0
+41,Germany,new,46,998.03,bank transfer,successful,other,0,0,2,0
+64,Germany,premium,40,35.18,PayPal,successful,electronics,0,0,1,0
+41,Germany,returning,35,856.1,PayPal,successful,sports,0,0,2,0
+37,USA,new,16,283.78,bank transfer,successful,clothing,0,0,0,0
+49,Canada,new,21,419.49,PayPal,successful,clothing,0,0,1,1
+59,UK,new,19,594.34,credit card,successful,electronics,0,0,1,0
+44,UK,new,16,241.21,credit card,successful,electronics,0,0,2,0
+62,USA,returning,19,698.84,debit card,successful,sports,0,0,2,0
+37,Canada,new,9,614.26,debit card,successful,electronics,0,0,2,1
+21,USA,returning,4,774.46,PayPal,successful,other,0,0,0,0
+46,UK,new,39,791.8,PayPal,successful,electronics,0,0,0,0
+65,India,new,10,330.29,credit card,successful,sports,0,0,2,1
+32,USA,premium,34,323.04,bank transfer,successful,other,0,0,0,0
+51,Other,returning,13,537.79,PayPal,successful,clothing,0,0,2,0
+60,Germany,returning,12,984.19,debit card,successful,home,0,0,4,1
+31,Canada,new,26,26.98,bank transfer,successful,clothing,0,0,1,0
+48,Other,returning,37,44.43,PayPal,successful,clothing,0,0,4,
+57,UK,returning,16,979.91,bank transfer,successful,other,0,0,0,0
+24,Germany,new,15,210.28,PayPal,successful,other,0,0,0,
+38,India,new,23,293.17,bank transfer,successful,clothing,0,1,0,0
+35,Canada,premium,49,372.58,credit card,successful,electronics,0,0,1,0
+46,USA,premium,28,602.86,credit card,successful,clothing,0,0,0,0
+37,USA,returning,3,97.87,PayPal,successful,clothing,1,1,2,0
+64,USA,new,14,977.72,credit card,successful,electronics,0,0,2,0
+39,USA,new,15,149.29,credit card,successful,clothing,0,0,1,0
+33,Germany,returning,49,901.53,PayPal,successful,clothing,0,0,2,0
+30,UK,premium,35,36.46,credit card,successful,other,0,0,1,0
+20,UK,returning,20,623.22,credit card,successful,electronics,0,0,2,0
+69,Other,returning,17,882.96,debit card,successful,home,0,0,2,0
+31,Canada,new,26,509.17,credit card,successful,home,0,0,2,0
+36,Canada,new,11,844.58,PayPal,successful,other,0,0,3,1
+51,USA,new,21,135.41,credit card,successful,sports,1,0,5,1
+46,India,premium,47,200.88,credit card,successful,other,0,0,2,0
+49,India,returning,32,560.33,PayPal,successful,home,1,0,2,0
+70,USA,new,34,376.57,credit card,successful,home,0,0,0,0
+30,Other,new,7,74.06,credit card,successful,other,0,0,0,0
+61,Germany,returning,32,480.44,PayPal,successful,other,0,0,1,0
+26,India,premium,39,262.66,debit card,successful,sports,0,0,1,0
+46,USA,new,23,219.92,debit card,successful,sports,0,0,2,0
+48,USA,returning,9,720.7,credit card,successful,sports,0,0,1,
+69,USA,returning,37,179.31,bank transfer,successful,home,0,0,2,0
+23,Germany,returning,30,614.62,debit card,successful,sports,0,0,1,0
+31,Canada,new,26,371.22,debit card,successful,sports,0,0,2,0
+22,USA,new,31,76.54,debit card,successful,sports,0,0,1,
+69,Other,premium,39,744.04,bank transfer,successful,other,0,0,1,0
+61,Canada,new,1,695.53,PayPal,failed,electronics,0,0,0,0
+30,USA,premium,11,586.4,debit card,failed,electronics,0,0,1,0
+55,Germany,new,40,370.42,bank transfer,successful,electronics,0,0,0,0
+26,Canada,new,32,98.63,credit card,pending,other,0,0,2,0
+25,Germany,new,35,815.95,bank transfer,successful,other,0,0,3,1
+55,Other,returning,50,298.25,credit card,successful,sports,0,,5,1
+62,India,new,39,411.41,PayPal,successful,other,0,0,2,0
+30,UK,premium,35,651.14,bank transfer,successful,home,0,0,2,0
+62,India,new,39,547.66,PayPal,successful,other,0,0,4,1
+20,USA,new,47,21.36,credit card,successful,electronics,0,0,0,0
+42,India,returning,38,730.98,bank transfer,successful,sports,0,0,0,
+35,UK,returning,33,379.1,credit card,failed,home,0,0,2,0
+64,UK,returning,34,434.14,PayPal,successful,electronics,0,0,2,0
+48,UK,new,49,950.97,debit card,pending,clothing,0,0,2,0
+22,USA,returning,23,857.12,bank transfer,successful,home,1,0,0,0
+46,UK,,39,676.5,credit card,successful,home,0,0,0,0
+46,India,new,10,913.24,credit card,successful,clothing,0,1,2,0
+65,UK,premium,20,557.66,credit card,successful,electronics,0,0,0,0
+57,USA,returning,43,910.39,PayPal,successful,electronics,0,0,2,0
+41,USA,returning,49,168.82,bank transfer,successful,electronics,0,0,2,0
+55,Germany,new,40,644.72,bank transfer,successful,clothing,1,0,2,0
+64,Canada,returning,41,779.81,PayPal,failed,electronics,0,0,1,0
+51,Canada,premium,36,391.69,PayPal,successful,other,0,0,1,0
+53,Canada,returning,39,307.75,bank transfer,successful,other,0,0,2,0
+26,USA,new,11,111.97,debit card,successful,other,0,0,4,1
+60,USA,returning,5,945.81,debit card,successful,sports,0,0,1,0
+39,USA,returning,40,783.26,debit card,successful,sports,0,0,1,0
+55,Germany,new,7,787.35,credit card,successful,electronics,0,0,0,0
+37,USA,premium,47,719.56,debit card,successful,other,0,,3,1
+34,Germany,premium,4,842.29,bank transfer,failed,home,0,0,2,0
+49,India,returning,32,561.36,bank transfer,successful,clothing,0,0,0,0
+56,UK,returning,31,860.34,bank transfer,successful,electronics,0,0,1,0
+23,Other,returning,38,122.79,bank transfer,successful,clothing,0,0,5,1
+63,Canada,new,16,290.35,debit card,successful,home,0,0,0,0
+57,Germany,,4,680.63,debit card,successful,sports,0,0,3,1
+33,UK,new,4,790.46,PayPal,successful,clothing,0,0,2,0
+44,Germany,returning,20,964.27,credit card,pending,electronics,0,0,1,0
+40,USA,new,10,155.9,credit card,successful,electronics,0,0,2,0
+34,Germany,premium,4,838.2,bank transfer,successful,other,0,0,2,0
+43,Other,returning,1,336.09,credit card,failed,home,0,0,4,1
+18,Canada,premium,25,14.33,PayPal,successful,clothing,0,0,1,0
+20,Canada,new,37,629.84,PayPal,failed,other,0,0,5,1
+61,USA,premium,2,813.98,credit card,pending,home,0,,0,0
+54,UK,new,41,28.31,PayPal,successful,clothing,0,0,1,0
+61,Germany,new,11,278.07,PayPal,successful,home,0,0,1,1
+33,UK,new,4,824.91,bank transfer,successful,other,0,0,0,0
+39,Other,premium,5,690.14,PayPal,failed,clothing,0,0,4,1
+65,India,new,10,218.94,credit card,successful,home,0,0,0,
+55,Canada,returning,4,268.39,PayPal,successful,home,0,0,0,0
+22,UK,new,50,258.3,debit card,failed,clothing,0,0,2,0
+30,USA,new,2,164.73,debit card,successful,home,0,0,1,0
+60,Germany,returning,12,284.4,bank transfer,successful,sports,0,0,0,0
+62,India,returning,3,250.76,debit card,successful,electronics,0,0,2,0
+55,Germany,new,7,711.96,bank transfer,successful,clothing,0,1,1,0
+22,USA,returning,23,824.33,bank transfer,successful,home,0,0,2,0
+51,USA,returning,24,640.1,credit card,pending,sports,0,0,2,0
+69,Other,premium,39,695.63,debit card,successful,home,0,0,0,0
+61,Other,returning,44,124.55,PayPal,successful,home,0,0,2,0
+49,Germany,,9,423.92,debit card,pending,clothing,0,0,2,0
+56,Other,new,42,175.23,bank transfer,failed,clothing,1,0,1,0
+21,UK,returning,35,347.13,PayPal,successful,electronics,0,0,1,0
+49,Other,new,20,338.02,PayPal,successful,clothing,0,0,2,0
+69,Other,premium,39,765.75,debit card,successful,other,0,0,2,0
+37,Canada,new,9,456.05,bank transfer,successful,electronics,0,0,1,0
+68,Other,new,35,694.35,credit card,successful,home,0,0,2,0
+67,UK,new,4,889.6,credit card,failed,electronics,1,0,5,1
+56,Germany,returning,23,743.61,credit card,successful,other,0,0,0,0
+69,USA,new,21,517.51,credit card,successful,electronics,0,0,1,0
+69,USA,new,21,913.41,credit card,successful,sports,0,0,1,0
+51,USA,new,21,157.97,bank transfer,successful,clothing,0,0,1,0
+65,Other,returning,50,290.17,debit card,successful,other,0,0,1,0
+51,Germany,new,3,420.59,PayPal,successful,clothing,0,0,0,0
+69,USA,new,21,497.98,debit card,successful,electronics,0,0,0,0
+27,India,premium,6,152.08,bank transfer,pending,clothing,0,0,0,0
+70,India,new,13,909.95,PayPal,successful,electronics,0,0,2,1
+62,UK,new,11,303.72,credit card,successful,home,0,0,4,1
+41,UK,returning,24,578.22,bank transfer,pending,home,0,0,1,0
+60,USA,returning,5,785.41,bank transfer,pending,sports,0,0,,1
+63,UK,returning,46,781.88,bank transfer,successful,clothing,0,0,0,0
+48,Other,returning,12,472.9,PayPal,successful,home,0,0,2,0
+52,USA,new,22,940.38,bank transfer,successful,electronics,0,1,2,0
+62,USA,returning,19,109.42,credit card,successful,electronics,0,0,,0
+33,Germany,returning,49,464.5,PayPal,pending,other,0,,2,0
+30,UK,returning,46,147.12,credit card,successful,home,0,0,1,0
+47,USA,returning,8,436.27,debit card,successful,home,0,0,2,0
+55,Germany,new,40,868.58,PayPal,successful,electronics,0,1,4,1
+28,India,returning,44,967.83,PayPal,successful,other,0,0,1,0
+70,India,premium,17,101.83,credit card,pending,other,0,0,1,0
+21,USA,returning,28,122.82,PayPal,successful,other,0,0,2,0
+42,Canada,returning,24,985.81,credit card,successful,clothing,0,1,0,0
+64,India,returning,20,66.49,credit card,failed,clothing,0,1,1,
+24,USA,returning,47,831.18,debit card,successful,sports,0,1,0,0
+19,Germany,premium,43,792.95,debit card,failed,clothing,1,1,1,0
+69,USA,returning,37,206.26,PayPal,successful,clothing,0,0,0,0
+67,Other,premium,30,438.57,credit card,successful,home,0,0,3,1
+45,UK,returning,13,31.65,PayPal,successful,electronics,0,0,1,0
+26,Canada,new,32,99.5,PayPal,pending,other,0,0,5,1
+60,India,returning,46,869.22,debit card,successful,other,0,0,1,1
+22,USA,returning,23,562,bank transfer,successful,electronics,0,0,1,1
+54,UK,new,41,267.84,PayPal,successful,other,0,0,0,0
+61,Germany,new,4,893.11,PayPal,successful,electronics,0,0,2,0
+57,Germany,premium,6,145.66,bank transfer,successful,home,0,0,0,0
+49,Other,returning,18,666.36,PayPal,successful,home,0,1,0,0
+49,Other,new,20,607.37,credit card,failed,other,0,0,1,0
+46,UK,new,39,677.05,PayPal,successful,home,1,0,3,
+21,USA,new,1,301.44,bank transfer,successful,home,0,0,,0
+48,Germany,new,20,638.84,PayPal,successful,other,0,0,0,0
+23,Canada,returning,14,629.61,bank transfer,successful,sports,0,0,2,0
+58,Canada,new,46,53.06,bank transfer,successful,clothing,0,0,1,0
+67,India,,2,871.09,PayPal,successful,clothing,0,0,2,0
+32,USA,premium,34,581.28,credit card,successful,sports,0,0,2,0
+46,USA,premium,28,892.42,PayPal,successful,other,0,1,1,1
+66,UK,premium,11,240.61,debit card,successful,other,0,0,1,0
+24,USA,returning,47,289.87,credit card,successful,sports,0,0,0,0
+64,UK,new,22,166.16,debit card,failed,other,0,0,0,0
+70,UK,premium,26,299.18,credit card,successful,sports,0,0,0,0
+48,Other,new,19,282.15,credit card,successful,other,0,0,1,0
+46,Germany,returning,14,889.51,credit card,successful,electronics,0,0,5,1
+38,India,new,11,328.26,PayPal,successful,other,0,0,0,0
+25,Germany,new,30,224.15,bank transfer,successful,other,0,0,0,0
+62,USA,new,27,745.52,debit card,successful,other,0,0,1,
+65,Other,returning,50,364.21,bank transfer,successful,clothing,0,0,1,0
+46,Other,new,38,394.72,PayPal,successful,home,0,0,1,0
+37,USA,new,16,487.73,credit card,successful,electronics,0,0,0,0
+66,USA,returning,29,325.59,bank transfer,pending,other,0,0,5,1
+27,UK,new,25,203.48,PayPal,failed,home,0,0,1,1
+66,USA,new,31,454.05,credit card,failed,clothing,0,0,2,0
+39,Other,premium,5,598.44,debit card,successful,other,0,0,2,0
+34,India,new,35,736.2,PayPal,pending,electronics,0,1,2,0
+28,UK,new,28,287.96,bank transfer,successful,sports,0,0,1,0
+26,India,new,22,630.37,PayPal,successful,electronics,0,0,0,0
+54,Other,new,32,543.8,bank transfer,pending,sports,0,0,2,
+49,Other,returning,47,753.38,bank transfer,failed,home,0,0,3,1
+41,Germany,new,46,303.84,debit card,successful,clothing,0,0,1,0
+34,India,new,35,768.65,debit card,successful,sports,0,0,2,0
+52,USA,new,22,775.18,bank transfer,successful,sports,0,0,0,0
+64,Canada,premium,1,856.42,PayPal,successful,electronics,1,0,5,1
+33,Other,new,23,994.88,debit card,successful,other,0,0,0,0
+63,Other,new,18,735.72,bank transfer,successful,other,0,0,1,0
+47,USA,returning,8,310.09,credit card,successful,sports,0,0,0,0
+18,Canada,new,44,700.51,PayPal,failed,electronics,1,0,,1
+29,India,returning,7,280.97,bank transfer,successful,other,0,1,1,0
+51,Other,new,18,872.93,debit card,successful,clothing,0,0,2,0
+39,UK,premium,46,151,debit card,successful,clothing,0,0,3,1
+44,Other,new,28,188.76,debit card,successful,home,0,0,0,0
+49,Other,returning,18,499.44,credit card,successful,electronics,0,0,,0
+39,USA,returning,30,611.21,debit card,successful,other,0,0,2,0
+24,India,returning,35,502.53,bank transfer,successful,home,0,0,2,0
+43,Germany,returning,35,18.08,bank transfer,pending,home,0,1,2,0
+45,India,premium,9,182.19,bank transfer,successful,sports,0,1,1,0
+69,Germany,returning,34,671.13,PayPal,successful,home,0,,2,0
+21,India,new,19,178.75,debit card,successful,other,1,0,1,0
+18,UK,returning,40,258.64,debit card,successful,clothing,0,0,2,0
+60,Canada,returning,46,542.84,PayPal,successful,other,0,,1,0
+44,UK,new,16,557.67,PayPal,successful,home,0,0,0,0
+59,Germany,returning,25,859.77,credit card,successful,sports,0,0,2,1
+22,Germany,new,47,250.24,PayPal,failed,other,0,1,1,0
+19,India,premium,2,278.51,credit card,successful,sports,0,0,0,0
+61,Germany,,11,874.16,credit card,successful,sports,0,0,2,0
+49,UK,new,50,433.21,credit card,failed,other,0,0,4,1
+51,Canada,premium,36,309.57,bank transfer,successful,clothing,0,0,2,0
+30,UK,returning,46,984.84,bank transfer,pending,home,0,1,0,0
+56,Germany,new,38,528.37,bank transfer,successful,sports,0,1,2,1
+46,USA,premium,28,389.76,PayPal,pending,home,0,0,1,0
+61,Germany,new,11,11.44,PayPal,pending,home,0,0,0,0
+27,Canada,premium,43,425.3,PayPal,successful,sports,0,0,2,0
+22,Canada,new,35,67.42,credit card,successful,home,0,0,0,0
+68,India,new,47,856.84,bank transfer,failed,home,0,0,1,0
+64,UK,new,22,721.21,PayPal,pending,sports,0,0,2,0
+21,India,new,19,486.5,bank transfer,successful,electronics,0,0,5,1
+61,Germany,premium,35,907.15,bank transfer,successful,home,0,0,2,
+64,UK,returning,34,916.16,credit card,successful,clothing,0,0,0,0
+67,India,premium,2,898.83,PayPal,successful,sports,0,0,5,1
+34,India,new,49,522.01,PayPal,successful,home,0,0,0,0
+45,Canada,new,4,581.61,credit card,failed,clothing,0,0,2,0
+57,USA,new,41,317.63,bank transfer,successful,clothing,0,0,0,0
+20,USA,new,47,798.46,debit card,successful,other,0,0,2,0
+52,UK,returning,44,504.73,bank transfer,successful,electronics,1,0,1,0
+18,Canada,premium,25,839.95,credit card,failed,electronics,0,0,2,0
+44,Germany,returning,20,223.5,credit card,successful,clothing,0,0,3,1
+22,India,premium,11,974.01,bank transfer,successful,electronics,0,0,4,1
+54,UK,new,41,137.6,debit card,successful,other,0,0,2,0
+33,India,returning,12,101.89,credit card,failed,sports,0,0,1,0
+22,Canada,new,35,990.06,debit card,successful,clothing,0,0,2,0
+62,Canada,premium,24,443.44,debit card,successful,electronics,0,1,1,0
+21,USA,returning,28,977.34,bank transfer,successful,other,0,0,0,0
+35,Canada,premium,49,251.93,credit card,successful,home,0,0,1,1
+27,UK,premium,23,529.49,bank transfer,successful,home,0,0,2,1
+20,USA,returning,8,401.54,bank transfer,successful,electronics,0,0,2,0
+29,USA,new,23,388.56,debit card,pending,home,0,0,2,0
+33,Canada,premium,12,737.04,bank transfer,pending,clothing,0,0,5,1
+52,UK,premium,41,773.65,PayPal,successful,clothing,0,0,2,0
+46,India,returning,16,702.14,PayPal,successful,other,0,0,0,0
+52,USA,,22,897.16,PayPal,successful,electronics,0,0,0,0
+20,UK,returning,20,961.47,PayPal,pending,sports,0,0,2,0
+55,Germany,new,7,139.41,bank transfer,successful,other,0,0,0,0
+21,UK,returning,35,205.48,credit card,pending,clothing,0,0,1,0
+64,UK,new,7,393.75,credit card,successful,clothing,0,0,5,1
+27,India,premium,6,722.88,debit card,successful,clothing,0,0,0,0
+28,USA,new,27,689.39,PayPal,failed,other,0,0,1,0
+21,USA,returning,28,947.17,bank transfer,failed,other,0,0,,0
+62,India,premium,30,722.85,debit card,successful,home,0,0,1,0
+41,Germany,new,49,238.21,credit card,successful,clothing,0,0,0,0
+50,India,returning,31,214.69,bank transfer,successful,electronics,0,0,1,0
+23,Canada,returning,14,59.71,debit card,successful,other,0,0,0,0
+51,USA,new,21,790.55,PayPal,successful,electronics,0,1,2,1
+44,Canada,returning,43,199.11,credit card,failed,other,0,0,1,0
+55,Germany,new,7,398.89,debit card,successful,sports,0,0,2,0
+23,Other,new,49,664.65,debit card,failed,sports,0,0,0,0
+37,USA,premium,47,897.34,credit card,successful,other,0,1,3,1
+39,USA,new,15,441.05,debit card,successful,other,0,0,1,1
+23,Canada,returning,14,720.88,bank transfer,successful,other,0,0,0,0
+28,Other,returning,26,325.3,debit card,failed,other,0,0,1,0
+22,USA,returning,23,704.82,bank transfer,successful,home,0,0,1,0
+56,Germany,returning,23,621.14,bank transfer,successful,home,1,0,0,0
+27,India,premium,6,518.4,bank transfer,successful,other,0,0,0,0
+19,USA,returning,36,986.99,PayPal,successful,electronics,0,0,1,1
+52,UK,premium,41,885.7,credit card,successful,electronics,0,0,0,0
+44,UK,new,16,618.63,credit card,successful,home,0,0,1,0
+44,Germany,new,44,363.22,bank transfer,successful,sports,0,0,5,1
+20,USA,returning,8,648.23,bank transfer,successful,clothing,0,0,0,0
+34,Germany,premium,4,10.75,bank transfer,successful,other,0,0,0,0
+47,USA,premium,22,459.33,PayPal,successful,sports,0,0,0,0
+21,USA,new,1,320.88,debit card,successful,clothing,0,0,1,0
+33,Other,new,23,275,bank transfer,successful,electronics,0,0,1,0
+59,India,premium,32,899.09,debit card,pending,sports,0,0,0,0
+35,UK,,33,611.45,debit card,successful,clothing,1,0,0,0
+20,India,returning,43,522.88,credit card,successful,home,0,0,2,0
+20,UK,returning,20,658.8,bank transfer,successful,sports,0,0,1,
+59,India,premium,32,739.08,credit card,successful,clothing,0,0,,0
+62,UK,new,50,438.91,PayPal,successful,home,0,1,0,0
+62,Canada,premium,24,905.03,credit card,successful,clothing,0,0,3,1
+45,India,premium,9,777.15,PayPal,successful,electronics,0,0,0,0
+34,Canada,new,31,932.66,credit card,successful,other,1,1,2,0
+44,Germany,new,44,706.54,bank transfer,successful,home,0,,0,0
+40,Canada,new,6,876.79,bank transfer,successful,sports,0,0,,0
+18,UK,returning,44,477.56,PayPal,successful,sports,0,0,,1
+45,India,premium,9,79.24,PayPal,successful,home,0,0,0,
+57,Germany,premium,6,232.84,bank transfer,successful,electronics,0,0,2,0
+37,UK,new,5,812.46,credit card,failed,electronics,0,0,0,0
+34,Canada,new,31,504.59,credit card,successful,sports,0,0,2,1
+70,UK,premium,26,752.82,PayPal,failed,home,0,0,0,0
+29,Canada,premium,37,293.7,credit card,pending,home,0,0,0,0
+62,UK,new,11,258.25,credit card,successful,home,0,1,1,0
+51,Canada,,36,95.46,credit card,failed,other,0,1,0,0
+34,USA,new,32,715.74,bank transfer,successful,home,0,0,0,0
+47,USA,premium,4,201.96,bank transfer,successful,clothing,0,0,,1
+57,India,returning,48,985.91,bank transfer,successful,electronics,0,0,2,0
+22,India,premium,11,209.73,debit card,successful,clothing,0,0,2,0
+62,USA,new,27,133.68,debit card,successful,sports,0,0,0,0
+37,Canada,new,9,828.81,debit card,failed,clothing,0,0,2,0
+55,UK,new,30,598.61,bank transfer,successful,other,0,1,1,0
+18,UK,returning,44,24.78,PayPal,successful,home,0,0,1,0
+45,India,premium,9,761.17,PayPal,successful,clothing,0,0,2,0
+26,Canada,new,32,477.75,bank transfer,pending,home,0,0,1,0
+69,India,returning,26,118.83,bank transfer,successful,sports,0,0,5,1
+52,UK,returning,44,841.41,PayPal,successful,home,0,1,2,0
+69,Other,returning,17,301.57,bank transfer,successful,clothing,0,0,,0
+58,India,new,38,999.86,bank transfer,successful,home,0,,2,0
+47,USA,premium,22,801.82,credit card,successful,sports,0,0,1,
+48,UK,new,49,574.73,credit card,failed,clothing,0,0,1,0
+27,Canada,premium,43,179.59,debit card,successful,other,0,0,4,1
+20,USA,new,47,753.34,bank transfer,successful,clothing,1,0,2,0
+18,Canada,premium,23,543.1,debit card,successful,sports,0,0,2,
+50,Other,,33,406.68,bank transfer,successful,home,0,0,0,0
+30,UK,,46,222.47,bank transfer,successful,home,0,0,0,0
+20,India,premium,20,848.55,PayPal,successful,sports,0,0,1,0
+70,UK,returning,23,720.67,debit card,successful,other,0,0,1,0
+55,Germany,returning,19,698.66,PayPal,successful,home,0,0,3,1
+29,India,new,8,981.67,bank transfer,successful,electronics,0,0,0,0
+39,USA,returning,40,780.63,bank transfer,failed,electronics,0,0,2,0
+65,UK,premium,20,868.42,PayPal,failed,home,0,0,2,0
+41,Germany,new,46,667.03,credit card,successful,clothing,0,0,5,1
+23,Canada,returning,14,522.3,PayPal,successful,clothing,0,0,0,0
+44,UK,new,16,58.15,PayPal,successful,electronics,1,0,2,0
+37,USA,new,16,537.09,bank transfer,successful,electronics,0,0,2,0
+65,India,new,10,729.01,PayPal,successful,sports,0,0,0,0
+26,Other,new,41,110.38,bank transfer,successful,other,0,0,4,1
+18,Canada,premium,23,935.32,debit card,successful,sports,0,0,2,1
+42,Other,new,28,80.42,PayPal,successful,electronics,0,0,0,0
+48,UK,new,18,193.46,credit card,successful,other,0,0,0,0
+29,India,returning,6,258.36,credit card,successful,electronics,0,1,2,0
+20,Germany,premium,37,273.71,bank transfer,successful,sports,0,0,4,1
+42,Other,new,28,754.19,debit card,successful,sports,0,0,2,0
+65,Other,returning,50,796.12,bank transfer,successful,electronics,0,0,,0
+67,Other,premium,30,646.82,bank transfer,successful,sports,1,0,2,1
+22,Canada,new,35,750.65,PayPal,successful,electronics,1,0,1,0
+19,Germany,premium,31,125.87,debit card,successful,sports,0,0,2,0
+38,India,new,23,81.9,credit card,pending,sports,0,0,0,0
+24,India,new,33,574.81,debit card,successful,clothing,0,0,2,0
+18,Canada,returning,39,925.52,PayPal,successful,home,0,0,4,1
+23,Other,new,49,873.32,credit card,successful,other,0,1,2,0
+39,USA,returning,30,999.9,debit card,successful,sports,0,0,2,0
+46,India,premium,47,925.08,debit card,successful,other,0,1,2,0
+23,Germany,returning,30,21.29,credit card,successful,other,0,0,1,0
+41,Germany,returning,35,337.69,debit card,successful,home,0,0,0,0
+41,India,new,47,232.33,debit card,successful,clothing,0,1,0,0
+41,Other,new,15,347.73,credit card,successful,clothing,0,0,1,0
+44,Germany,returning,12,104.32,bank transfer,successful,other,0,0,1,0
+18,Canada,premium,23,842.48,credit card,failed,home,0,0,3,1
+48,Germany,new,20,473.58,credit card,successful,home,1,0,1,0
+34,Germany,premium,4,643.91,credit card,failed,home,0,0,0,0
+46,Germany,returning,14,425.82,bank transfer,successful,electronics,0,0,0,0
+45,Canada,premium,4,684.85,credit card,successful,clothing,0,0,0,0
+51,UK,returning,40,262.73,credit card,successful,clothing,0,0,1,0
+61,Germany,premium,35,256.26,bank transfer,successful,electronics,0,0,0,0
+66,Canada,new,27,988.1,bank transfer,successful,other,0,0,0,0
+47,Other,new,34,909.19,bank transfer,successful,other,0,0,2,0
+69,USA,new,2,50.37,PayPal,pending,sports,0,0,1,0
+68,UK,returning,17,928.55,debit card,successful,electronics,0,0,4,1
+67,India,premium,2,961.51,credit card,pending,other,0,1,2,0
+51,UK,new,15,81.95,bank transfer,successful,electronics,0,0,5,1
+25,India,,31,603.44,debit card,successful,other,0,0,2,0
+37,Germany,premium,7,806.54,bank transfer,successful,home,0,1,0,0
+23,Other,returning,38,943.89,credit card,successful,electronics,1,1,0,0
+55,Germany,new,7,854.68,bank transfer,pending,home,0,1,2,0
+30,USA,new,2,631.08,credit card,pending,electronics,0,0,0,0
+62,USA,returning,19,412.42,bank transfer,failed,other,0,0,1,0
+21,Canada,new,1,722.01,PayPal,successful,other,0,0,2,0
+63,USA,returning,3,920.96,credit card,successful,electronics,0,1,0,0
+44,UK,premium,47,784.93,bank transfer,pending,sports,0,0,1,0
+19,Germany,premium,31,859.6,PayPal,successful,electronics,0,1,0,0
+40,USA,new,3,483.13,credit card,successful,electronics,0,0,2,0
+42,Canada,returning,24,837.03,credit card,successful,clothing,0,0,1,0
+21,UK,premium,28,188.53,debit card,successful,sports,1,0,2,0
+62,India,new,39,257.07,debit card,successful,electronics,0,0,1,0
+60,Canada,returning,46,722.84,credit card,successful,other,0,0,0,0
+20,India,premium,20,227.94,credit card,successful,other,0,0,2,0
+67,Other,premium,19,453.51,bank transfer,successful,sports,0,0,1,0
+66,Other,premium,23,591.61,debit card,successful,home,0,0,5,1
+49,India,returning,32,503.93,bank transfer,successful,sports,0,0,1,0
+68,Canada,premium,23,959.69,credit card,pending,other,0,0,0,0
+28,Other,returning,26,996.89,debit card,successful,clothing,0,0,1,0
+44,Other,returning,9,233.73,debit card,failed,clothing,0,0,2,0
+38,India,new,23,622.39,credit card,successful,other,0,0,1,1
+50,Other,premium,33,600.52,bank transfer,successful,other,0,0,5,1
+54,UK,returning,2,983.41,bank transfer,pending,sports,0,0,,0
+44,UK,premium,47,912.91,credit card,successful,electronics,0,0,4,1
+53,Other,returning,24,944.4,debit card,pending,sports,0,0,2,0
+20,USA,returning,47,750.68,bank transfer,successful,electronics,0,,2,0
+26,Canada,new,10,633.24,bank transfer,successful,home,0,0,1,0
+56,Germany,new,38,618.09,bank transfer,successful,electronics,0,0,2,0
+62,USA,new,27,186.91,bank transfer,successful,other,0,1,0,0
+63,UK,new,27,54.25,credit card,successful,electronics,0,0,1,0
+69,Germany,returning,34,278.4,bank transfer,successful,other,0,0,2,0
+39,USA,returning,30,897.82,bank transfer,successful,clothing,0,0,1,0
+51,Canada,returning,18,430.74,debit card,successful,other,0,0,0,0
+46,USA,premium,28,174.62,bank transfer,successful,home,1,0,2,0
+55,Germany,new,40,310.39,credit card,successful,other,0,,1,0
+59,India,returning,46,232.75,debit card,failed,clothing,0,0,0,0
+47,USA,premium,22,607.01,debit card,successful,other,0,0,2,0
+35,UK,returning,9,419.17,bank transfer,successful,clothing,0,0,0,0
+50,Other,premium,33,891.36,bank transfer,pending,electronics,0,0,2,0
+37,USA,premium,9,511.45,PayPal,successful,home,0,0,1,0
+63,USA,premium,11,414.09,credit card,pending,sports,0,0,1,0
+44,UK,new,49,245.28,bank transfer,successful,home,1,0,0,0
+61,UK,returning,17,91.65,credit card,successful,sports,0,0,1,1
+53,Germany,new,6,523.61,credit card,successful,sports,0,0,0,0
+54,USA,new,29,965.86,PayPal,successful,clothing,0,0,2,0
+51,India,returning,43,760.69,bank transfer,pending,home,0,0,2,0
+51,Germany,new,20,795.77,PayPal,successful,clothing,0,0,2,0
+44,UK,new,23,595.26,bank transfer,successful,electronics,0,0,0,0
+70,India,new,15,341.86,PayPal,successful,clothing,0,0,0,0
+32,Germany,premium,23,818.63,PayPal,successful,electronics,0,0,1,0
+21,India,new,19,320.36,bank transfer,successful,electronics,0,1,0,0
+27,UK,new,25,538.62,debit card,failed,clothing,0,0,,1
+65,India,new,10,909.71,credit card,successful,electronics,0,1,2,0
+54,UK,new,30,600.82,debit card,successful,other,0,1,2,0
+52,UK,returning,44,686.82,bank transfer,successful,home,0,0,0,0
+39,UK,premium,46,558.85,credit card,failed,clothing,0,0,5,1
+64,Canada,returning,41,295.92,PayPal,successful,sports,0,0,0,0
+60,USA,,5,223.79,debit card,successful,electronics,0,0,2,0
+69,UK,premium,43,123.93,PayPal,successful,electronics,0,0,4,1
+54,UK,new,21,602.93,debit card,failed,home,0,0,0,0
+69,UK,premium,43,636.49,debit card,successful,sports,0,0,2,0
+40,Canada,new,36,148.55,debit card,successful,home,0,0,1,0
+28,India,new,45,322.98,credit card,successful,home,0,1,1,0
+46,India,new,10,245.05,bank transfer,successful,home,1,1,1,0
+59,UK,new,19,477.63,debit card,successful,sports,0,0,0,0
+51,USA,returning,24,158.48,PayPal,successful,other,0,,5,1
+62,Canada,premium,24,573.63,bank transfer,successful,other,0,0,2,0
+47,Canada,premium,39,775.12,debit card,failed,clothing,0,0,0,0
+41,Germany,returning,35,740.34,bank transfer,successful,clothing,0,0,,0
+64,UK,returning,34,900.54,bank transfer,failed,other,0,0,4,1
+43,Germany,returning,46,688.08,PayPal,successful,sports,0,0,2,0
+41,Germany,returning,35,371.6,PayPal,successful,clothing,0,0,0,0
+65,India,premium,21,268.43,bank transfer,successful,home,0,0,0,0
+23,Germany,premium,1,204.39,debit card,successful,home,0,0,1,0
+70,UK,returning,23,410.57,PayPal,successful,electronics,0,0,,1
+46,UK,new,39,712.56,debit card,successful,sports,0,1,0,0
+37,Germany,premium,7,587.67,credit card,successful,sports,0,0,2,0
+56,Other,new,42,286.08,PayPal,successful,home,0,0,2,0
+18,UK,returning,44,944.54,debit card,successful,other,1,0,1,1
+35,India,premium,17,853.79,debit card,successful,electronics,0,1,5,1
+55,UK,new,30,260.88,debit card,successful,electronics,0,0,,0
+20,Canada,new,50,955.06,bank transfer,successful,other,0,1,1,0
+51,UK,new,15,224.73,debit card,successful,clothing,0,0,1,1
+46,India,returning,43,265.07,bank transfer,successful,home,0,1,2,0
+21,USA,returning,28,729.81,bank transfer,successful,home,0,0,2,1
+51,Canada,premium,36,863.78,PayPal,pending,clothing,0,0,2,0
+65,India,premium,21,620.85,bank transfer,successful,other,0,0,2,0
+24,Germany,new,12,485.89,bank transfer,successful,sports,0,0,0,0
+63,UK,new,27,351.79,PayPal,successful,clothing,1,1,3,
+68,Canada,premium,23,247.13,PayPal,successful,sports,0,1,1,0
+37,Germany,premium,7,419.12,bank transfer,pending,clothing,1,0,1,0
+46,India,new,5,439.88,credit card,successful,clothing,1,0,0,0
+63,India,returning,33,830.79,debit card,successful,home,0,0,0,0
+40,UK,new,3,346.68,debit card,successful,home,0,0,1,0
+59,UK,new,18,458.94,credit card,successful,clothing,0,0,1,0
+51,USA,new,21,193.82,PayPal,successful,clothing,0,0,2,0
+18,Canada,premium,23,799.39,bank transfer,successful,electronics,0,0,0,0
+39,Germany,premium,4,108.97,bank transfer,successful,other,0,0,2,0
+30,Other,new,7,776.04,debit card,successful,clothing,0,0,1,0
+42,USA,returning,14,679.78,bank transfer,successful,home,0,0,1,0
+48,Canada,premium,19,191.38,debit card,successful,electronics,0,1,1,0
+33,India,returning,12,625.39,bank transfer,failed,electronics,0,0,0,0
+29,Other,new,47,427.9,bank transfer,successful,electronics,0,0,0,0
+28,USA,,27,558.37,bank transfer,successful,sports,1,0,4,1
+46,USA,premium,28,446.01,credit card,successful,clothing,0,0,1,0
+55,Other,returning,50,233.24,bank transfer,pending,electronics,0,0,1,0
+20,USA,returning,8,173.07,credit card,successful,home,0,0,0,0
+42,Other,new,28,922.38,debit card,successful,clothing,0,0,3,1
+62,UK,new,30,567.83,PayPal,successful,sports,0,0,1,0
+61,Canada,premium,36,481.93,debit card,successful,electronics,0,0,0,0
+48,UK,new,49,235.06,PayPal,successful,clothing,0,1,0,0
+24,Germany,new,15,705.18,credit card,successful,home,0,0,2,0
+45,India,returning,7,875.75,debit card,failed,electronics,0,,0,0
+28,Other,new,37,975.53,PayPal,successful,electronics,0,0,3,1
+47,India,premium,21,760.03,bank transfer,pending,sports,0,0,5,1
+44,Other,returning,9,906.12,debit card,successful,sports,0,0,0,0
+24,USA,returning,47,833.24,PayPal,failed,clothing,0,0,1,0
+40,UK,new,3,595.79,debit card,successful,other,1,0,4,1
+44,Other,new,28,907.52,bank transfer,successful,other,0,0,0,0
+56,Other,new,13,977.21,debit card,successful,home,0,0,1,0
+67,UK,new,4,159.25,bank transfer,pending,sports,0,1,1,1
+39,USA,returning,30,278.56,credit card,successful,other,1,0,0,0
+54,UK,new,41,917.78,PayPal,successful,other,0,0,2,0
+21,USA,premium,45,126.41,bank transfer,pending,sports,0,0,2,0
+58,Canada,new,46,365.34,debit card,successful,electronics,0,0,4,1
+55,Other,returning,50,994.7,PayPal,successful,clothing,0,0,5,1
+67,UK,new,4,881.35,debit card,successful,sports,0,0,,0
+42,India,returning,4,359.13,debit card,successful,home,0,0,1,0
+53,Other,returning,24,368.6,bank transfer,successful,sports,0,0,1,0
+32,Germany,premium,23,293.22,bank transfer,successful,other,0,0,2,0
+49,Canada,new,21,593.46,debit card,successful,home,0,1,1,0
+68,USA,returning,6,735.73,credit card,successful,clothing,0,0,1,0
+30,India,new,14,250.8,PayPal,failed,sports,0,0,1,0
+57,Germany,,4,989.61,debit card,successful,clothing,0,0,0,0
+69,USA,new,2,68.57,debit card,successful,home,0,0,0,0
+27,UK,premium,23,321.74,credit card,successful,clothing,0,0,0,0
+32,Germany,premium,23,430.7,bank transfer,successful,electronics,0,0,2,0
+69,Other,premium,39,499.79,bank transfer,successful,clothing,0,0,0,0
+61,Canada,premium,9,346.72,bank transfer,successful,home,0,1,2,0
+27,UK,new,24,810.84,bank transfer,successful,other,1,0,1,0
+46,UK,new,39,159.58,credit card,successful,other,0,0,2,0
+46,USA,returning,46,834.53,debit card,failed,clothing,0,0,1,0
+20,USA,premium,29,456.22,PayPal,failed,other,0,0,1,0
+55,Canada,,4,757.15,bank transfer,pending,electronics,0,0,1,0
+34,India,premium,24,571.17,debit card,successful,home,0,0,2,1
+42,USA,returning,14,527.25,debit card,pending,electronics,0,0,0,0
+28,UK,new,28,737.42,bank transfer,successful,electronics,0,0,1,1
+23,Germany,premium,1,403.36,debit card,successful,other,0,1,0,0
+70,India,new,13,554.5,debit card,successful,clothing,0,0,1,0
+47,Germany,new,40,176.29,PayPal,successful,sports,0,0,4,1
+51,Other,returning,13,187.64,credit card,successful,electronics,0,1,0,0
+55,Other,returning,50,930.36,credit card,successful,sports,0,0,0,0
+46,India,premium,47,164.78,debit card,successful,clothing,0,0,1,0
+55,UK,premium,4,869.44,credit card,successful,sports,0,0,0,0
+39,Other,premium,5,628.43,bank transfer,pending,sports,0,0,1,0
+24,Germany,returning,25,538.8,debit card,failed,other,0,0,0,0
+55,UK,premium,4,950.33,credit card,successful,home,0,0,5,1
+46,Other,returning,48,563.9,credit card,successful,other,0,0,2,0
+41,USA,,47,105.3,PayPal,successful,clothing,0,,1,0
+63,Other,new,18,670.87,debit card,successful,other,0,0,1,1
+64,USA,new,47,791.14,debit card,successful,home,0,0,0,
+54,Other,returning,23,331.19,debit card,successful,clothing,0,,2,0
+56,Other,new,13,914.62,bank transfer,successful,clothing,0,1,1,0
+49,India,returning,32,867.07,bank transfer,successful,clothing,0,0,2,0
+20,India,returning,43,523.05,PayPal,successful,sports,0,0,2,0
+61,Canada,premium,36,132.27,credit card,pending,home,0,1,0,0
+18,UK,returning,40,704.29,PayPal,successful,electronics,0,1,2,0
+49,India,returning,32,825.5,credit card,successful,clothing,0,0,0,0
+54,UK,new,17,676.81,PayPal,successful,home,0,0,1,1
+26,USA,new,11,639.29,credit card,successful,other,0,0,3,1
+64,USA,new,47,191.51,PayPal,successful,home,0,0,0,0
+21,USA,returning,4,925.76,credit card,successful,home,0,0,2,0
+60,Germany,new,40,500.53,bank transfer,pending,electronics,1,0,3,1
+59,UK,new,7,744.51,debit card,pending,clothing,0,0,1,0
+45,India,premium,13,946.29,credit card,successful,home,0,0,3,1
+48,UK,new,18,54.61,PayPal,failed,clothing,0,0,2,0
+21,UK,returning,35,557.96,debit card,successful,electronics,0,0,1,0
+54,Canada,returning,25,903.22,credit card,successful,clothing,0,0,1,0
+52,UK,new,7,57.43,PayPal,successful,sports,0,0,2,1
+39,Canada,new,26,796.95,debit card,successful,clothing,0,0,2,1
+43,Canada,new,4,167.96,PayPal,pending,home,0,0,0,0
+44,Germany,returning,20,323.82,PayPal,successful,other,0,0,2,1
+60,India,returning,46,716.26,bank transfer,successful,other,0,0,1,0
+49,Other,new,20,365.62,bank transfer,successful,clothing,0,1,2,0
+37,Canada,new,3,157.64,credit card,failed,home,0,0,2,0
+24,Germany,premium,37,773.37,credit card,successful,other,0,0,1,1
+44,UK,premium,47,149.15,debit card,successful,sports,0,0,0,0
+58,Canada,new,5,309.98,bank transfer,successful,clothing,0,0,2,0
+58,Other,new,32,847.47,credit card,pending,clothing,0,0,1,0
+18,Canada,premium,25,785.44,credit card,successful,electronics,1,0,2,0
+42,India,new,30,508.15,PayPal,successful,clothing,1,0,0,0
+29,Canada,,28,78.74,credit card,successful,home,0,0,0,0
+40,UK,new,8,352.25,bank transfer,successful,sports,0,1,2,0
+36,Other,returning,41,642.9,credit card,successful,electronics,0,0,2,0
+56,UK,returning,31,289.54,PayPal,successful,other,0,0,1,1
+18,UK,,40,882.36,credit card,successful,other,0,0,1,0
+65,Germany,new,10,509.9,credit card,failed,clothing,0,0,1,0
+20,Canada,returning,27,489.01,bank transfer,successful,clothing,0,0,1,0
+64,UK,new,49,326.58,bank transfer,successful,sports,0,0,3,1
+61,Canada,new,1,198.53,credit card,successful,electronics,0,1,1,0
+24,USA,returning,47,502.7,debit card,successful,sports,0,0,,1
+68,Other,new,35,164.44,bank transfer,successful,other,0,0,2,0
+41,UK,returning,49,750.18,debit card,successful,home,0,0,0,0
+54,USA,new,29,30.59,bank transfer,successful,home,0,0,0,0
+66,Canada,new,27,870.24,bank transfer,successful,sports,0,0,1,0
+64,India,returning,20,481.97,bank transfer,successful,other,0,1,1,0
+34,India,new,19,196.26,credit card,successful,electronics,0,0,2,0
+27,UK,new,25,983.84,credit card,successful,other,0,0,2,0
+41,India,new,47,732.13,PayPal,failed,home,0,,2,1
+31,USA,returning,39,264.53,credit card,successful,sports,0,0,0,0
+70,UK,premium,26,12.4,debit card,successful,other,0,0,0,0
+52,UK,returning,44,843.46,bank transfer,successful,clothing,0,0,1,0
+61,Germany,premium,35,326.58,bank transfer,pending,clothing,0,1,1,0
+61,UK,returning,41,184.05,debit card,successful,other,0,0,1,1
+53,India,premium,34,310.63,credit card,successful,other,0,0,2,0
+56,UK,new,19,968.12,debit card,successful,clothing,0,0,5,1
+55,Germany,new,40,796.96,PayPal,successful,electronics,0,0,1,0
+27,Canada,returning,48,556.58,bank transfer,successful,sports,0,0,2,0
+59,UK,new,18,951.2,bank transfer,successful,sports,0,0,0,0
+42,Canada,new,49,578.18,PayPal,pending,other,0,0,2,0
+60,Germany,new,40,445.48,bank transfer,successful,other,0,0,1,0
+25,Germany,new,30,486.29,credit card,successful,clothing,0,0,0,0
+30,USA,new,2,386.05,PayPal,successful,clothing,0,1,0,0
+32,Germany,premium,23,593.08,bank transfer,pending,home,0,0,0,0
+34,Canada,new,31,480.05,credit card,successful,sports,0,0,2,1
+46,India,new,10,297.31,PayPal,pending,electronics,0,0,2,0
+36,Other,returning,41,964.19,bank transfer,successful,other,0,0,2,0
+68,USA,premium,31,827.66,bank transfer,successful,other,0,0,2,0
+64,Canada,premium,1,86.82,credit card,successful,electronics,0,0,1,0
+42,Canada,returning,24,251.64,bank transfer,successful,clothing,0,0,1,0
+43,Germany,returning,46,718.23,bank transfer,successful,sports,0,0,1,0
+53,Other,returning,24,561.73,credit card,successful,sports,0,0,1,0
+23,Canada,returning,14,761.64,debit card,successful,sports,0,0,1,0
+60,Germany,new,40,917.88,PayPal,pending,home,0,0,1,0
+70,Other,new,19,768.43,debit card,successful,clothing,0,0,1,0
+57,India,premium,38,254.63,debit card,successful,clothing,0,0,1,0
+68,USA,returning,6,76.62,debit card,pending,electronics,0,0,0,0
+50,Other,,46,480.87,debit card,successful,electronics,0,0,3,1
+46,USA,new,23,168.21,PayPal,successful,sports,0,0,1,0
+45,Canada,premium,4,312.04,debit card,pending,other,0,1,,0
+25,India,new,17,440.81,credit card,pending,electronics,0,0,1,0
+64,India,returning,20,64.73,PayPal,failed,clothing,0,0,,0
+26,Canada,new,32,775.21,bank transfer,successful,electronics,0,0,2,1
+22,Other,premium,31,994.15,credit card,successful,home,0,0,2,0
+63,UK,returning,4,465.95,debit card,successful,other,0,0,1,0
+19,India,premium,2,872.05,bank transfer,successful,electronics,0,,0,0
+67,India,premium,2,997.97,debit card,pending,clothing,0,0,2,0
+21,USA,returning,28,900.88,PayPal,pending,sports,0,0,2,
+69,USA,new,21,639.73,PayPal,successful,other,0,0,2,0
+56,India,new,10,790.61,PayPal,pending,sports,0,0,0,0
+66,UK,premium,11,901.81,debit card,failed,sports,0,0,2,0
+45,India,premium,9,392.54,PayPal,failed,home,0,0,0,0
+35,India,returning,17,874.29,debit card,successful,electronics,0,0,1,0
+21,India,new,19,918.01,credit card,successful,clothing,0,0,1,0
+19,Germany,returning,12,909,credit card,successful,other,0,1,3,1
+24,India,new,37,777.16,debit card,successful,home,0,0,1,0
+61,UK,premium,19,536.52,credit card,pending,other,0,0,1,0
+61,Germany,new,11,721.96,credit card,pending,other,0,0,4,1
+59,UK,new,18,993.03,PayPal,successful,electronics,0,0,2,0
+22,Canada,new,35,722.45,PayPal,successful,other,0,0,5,1
+51,USA,new,21,545.07,bank transfer,successful,clothing,0,0,1,0
+33,Germany,,49,59.58,credit card,successful,sports,0,0,1,0
+53,Germany,new,6,155.29,debit card,failed,electronics,0,0,0,0
+49,India,new,20,623.23,PayPal,pending,other,0,1,1,0
+28,Other,new,37,38.55,debit card,successful,electronics,0,0,0,0
+66,USA,new,31,481.54,credit card,successful,home,0,0,4,1
+41,Canada,premium,35,840.49,debit card,successful,electronics,0,0,2,0
+45,India,premium,13,299.32,credit card,failed,electronics,1,0,0,0
+33,USA,returning,11,448.09,credit card,successful,home,0,0,0,0
+59,India,returning,46,927.25,bank transfer,pending,electronics,0,0,2,0
+59,Germany,new,9,582.77,debit card,successful,home,0,0,1,0
+18,UK,returning,40,138.15,credit card,successful,other,0,1,0,0
+40,Canada,returning,24,828.82,credit card,successful,sports,1,1,0,0
+66,UK,premium,11,696.48,PayPal,successful,home,0,0,0,0
+24,USA,returning,47,18.19,PayPal,failed,other,0,0,,0
+60,Germany,new,36,436.9,debit card,successful,clothing,0,0,1,0
+60,Canada,returning,46,348.59,debit card,successful,home,0,0,0,0
+69,USA,new,33,743.66,credit card,successful,clothing,0,0,0,0
+20,India,returning,39,856.1,bank transfer,successful,other,0,0,1,0
+69,USA,returning,37,446.35,debit card,successful,sports,0,1,1,0
+55,Germany,new,7,811.97,debit card,successful,other,0,0,2,0
+41,USA,new,11,115.96,bank transfer,successful,sports,0,0,2,1
+51,Canada,returning,18,508.42,debit card,successful,sports,0,0,0,0
+27,UK,new,25,382,debit card,successful,sports,0,0,1,0
+54,Other,,23,958.46,PayPal,successful,sports,0,0,0,0
+43,Canada,new,39,28.35,credit card,successful,home,0,0,1,0
+25,Germany,new,35,760.25,credit card,successful,clothing,0,0,1,
+20,USA,new,47,488.99,bank transfer,successful,electronics,0,0,2,0
+69,Germany,returning,34,670.81,bank transfer,successful,clothing,0,0,1,0
+51,Other,returning,13,709.08,PayPal,successful,sports,0,0,1,1
+46,Germany,returning,14,104.03,credit card,failed,electronics,0,0,0,0
+56,Germany,new,38,535.14,bank transfer,successful,home,0,0,0,0
+23,USA,new,42,133.94,PayPal,successful,electronics,0,0,5,1
+40,India,premium,37,473.32,PayPal,successful,other,0,0,2,0
+59,India,premium,32,542.57,PayPal,successful,home,1,0,2,0
+63,Canada,returning,14,140.82,PayPal,successful,other,0,0,0,0
+54,USA,new,29,778.06,credit card,successful,other,1,0,1,0
+36,Germany,,32,713.52,debit card,successful,electronics,0,0,1,0
+65,UK,premium,22,19.73,PayPal,successful,home,0,,2,0
+66,UK,premium,48,359.19,credit card,pending,other,0,0,0,0
+56,Other,new,42,799.77,PayPal,successful,other,0,0,0,0
+26,India,returning,43,533.19,credit card,successful,clothing,0,0,2,
+66,Other,premium,23,297.72,bank transfer,successful,clothing,0,0,1,0
+63,Canada,returning,14,671.91,debit card,pending,other,0,0,1,0
+47,Other,new,34,822.99,bank transfer,successful,electronics,0,0,2,0
+25,Germany,returning,37,294.89,debit card,failed,home,0,0,1,0
+24,Canada,returning,1,242.77,PayPal,successful,sports,0,0,1,0
+46,India,returning,43,846.44,debit card,successful,clothing,0,0,2,0
+40,Canada,new,6,318.44,PayPal,successful,clothing,1,0,1,0
+22,Canada,returning,34,852.12,bank transfer,successful,other,0,,0,0
+53,UK,new,12,471.6,PayPal,successful,other,1,0,0,0
+25,Germany,new,35,814.39,PayPal,successful,other,0,0,1,1
+22,UK,new,50,852.71,bank transfer,successful,clothing,0,0,0,0
+44,UK,new,49,107.84,debit card,successful,sports,0,0,0,
+26,Germany,returning,31,614.7,credit card,successful,home,0,0,4,1
+35,Other,new,49,766.85,credit card,successful,clothing,0,0,2,0
+60,India,returning,46,74.45,bank transfer,successful,other,0,1,1,0
+22,Other,new,34,471.59,bank transfer,successful,clothing,0,0,1,1
+32,Germany,premium,23,97.55,PayPal,successful,other,0,0,2,0
+24,India,premium,19,252.79,bank transfer,successful,clothing,0,1,3,1
+66,Germany,new,11,595.49,debit card,successful,sports,0,0,2,0
+69,Other,premium,39,205.85,debit card,failed,electronics,0,,2,1
+46,India,premium,47,124.84,debit card,successful,home,0,0,2,1
+35,Germany,new,15,920.96,bank transfer,successful,home,0,0,2,0
+64,UK,returning,34,302.83,bank transfer,successful,other,0,0,3,1
+21,Other,returning,19,226.21,credit card,successful,other,0,0,3,1
+56,UK,new,12,214.66,bank transfer,successful,home,0,0,1,0
+18,Canada,returning,39,283.84,PayPal,successful,electronics,1,0,0,0
+60,USA,returning,18,714.4,bank transfer,failed,home,1,0,2,0
+45,India,returning,25,867.57,PayPal,successful,electronics,0,0,2,0
+39,Other,premium,5,436.55,PayPal,pending,clothing,0,0,0,0
+22,Canada,returning,34,317.71,PayPal,successful,other,0,1,2,0
+44,India,new,15,623.98,bank transfer,successful,home,0,0,4,1
+33,Canada,premium,12,138.42,credit card,successful,clothing,0,0,1,0
+22,UK,new,50,379.19,credit card,successful,clothing,0,0,0,0
+59,India,new,12,48.45,credit card,successful,electronics,0,1,1,1
+52,Germany,new,20,57.97,PayPal,successful,other,0,1,1,0
+65,USA,premium,8,275.87,credit card,failed,other,0,0,2,1
+51,UK,returning,40,615.88,credit card,pending,sports,0,0,2,0
+66,UK,premium,11,989.08,bank transfer,successful,home,0,0,,0
+41,Other,premium,39,669.54,bank transfer,successful,clothing,0,0,4,1
+69,Other,returning,17,949.42,PayPal,successful,clothing,0,0,1,0
+21,UK,premium,28,427.89,bank transfer,successful,other,0,0,0,0
+21,Other,returning,19,274.25,bank transfer,pending,sports,0,0,5,1
+37,USA,new,17,296.35,credit card,successful,clothing,0,1,2,0
+33,USA,returning,11,274.13,PayPal,pending,other,0,0,1,0
+32,Germany,premium,23,306.02,bank transfer,successful,sports,0,0,1,0
+48,Germany,returning,36,471.03,bank transfer,successful,sports,0,0,1,1
+28,UK,,28,408.25,debit card,successful,electronics,0,0,1,0
+27,USA,new,38,994.81,debit card,pending,sports,0,0,0,0
+24,USA,new,48,985.54,PayPal,successful,home,0,1,0,0
+52,UK,new,4,868.7,debit card,successful,electronics,0,0,2,0
+27,UK,new,25,475.61,credit card,successful,home,0,0,1,1
+37,UK,new,14,956.92,debit card,successful,home,0,0,0,0
+38,UK,returning,46,672.34,debit card,successful,sports,0,0,0,0
+64,USA,new,47,994.83,bank transfer,successful,sports,0,0,5,1
+60,Germany,returning,12,278.7,bank transfer,successful,other,1,1,5,1
+41,USA,premium,17,318.78,bank transfer,successful,sports,0,,2,0
+64,USA,new,21,202.33,bank transfer,successful,home,1,0,0,0
+35,Canada,new,45,191.57,PayPal,successful,other,0,0,2,1
+62,Canada,premium,24,458.94,PayPal,successful,clothing,0,0,1,0
+26,UK,new,43,237.1,bank transfer,successful,electronics,0,0,0,0
+61,Germany,new,4,678.03,bank transfer,successful,home,0,0,,
+27,USA,new,38,643.43,debit card,successful,electronics,0,0,4,
+61,Canada,,42,138.34,PayPal,successful,electronics,0,0,2,1
+35,India,returning,17,618.04,debit card,failed,sports,0,0,1,0
+39,Germany,premium,4,743.87,debit card,successful,sports,0,,2,0
+22,Other,new,34,406.23,bank transfer,pending,electronics,0,0,2,0
+51,India,returning,43,180.74,debit card,successful,sports,0,0,0,0
+70,India,premium,17,557.32,credit card,pending,other,0,0,4,1
+22,Canada,returning,34,781.55,bank transfer,pending,electronics,1,0,0,0
+52,USA,new,22,720.02,debit card,pending,sports,0,0,5,1
+51,Other,premium,34,306.54,debit card,successful,home,0,0,1,0
+37,UK,new,14,851.74,PayPal,successful,electronics,0,0,5,1
+53,Canada,returning,14,168.66,PayPal,successful,clothing,0,0,4,1
+66,India,premium,31,309.58,credit card,successful,other,0,0,1,0
+19,USA,returning,36,981.18,credit card,successful,other,0,0,2,0
+20,USA,new,44,699.49,PayPal,successful,other,0,0,2,1
+66,India,new,3,976.24,bank transfer,successful,sports,0,1,0,0
+27,UK,new,24,924.53,bank transfer,successful,clothing,0,0,2,0
+41,USA,new,47,581.88,credit card,successful,electronics,0,0,2,0
+64,Germany,premium,40,235.02,PayPal,successful,sports,0,0,1,0
+64,USA,new,15,379.03,credit card,successful,electronics,0,0,1,0
+18,UK,returning,44,135.51,bank transfer,successful,sports,0,,0,0
+26,Germany,returning,31,853.82,debit card,successful,electronics,0,0,0,0
