@@ -55,6 +55,8 @@ def predictdata():
         # Make predictions
         predictions = predict_pipeline.predict_fraud(pred_df)
 
+        print(f"result is {predictions[0]}")
+
         if(predictions[0] ==0):
             return jsonify({"result":"Not Fraud"})
         else:
